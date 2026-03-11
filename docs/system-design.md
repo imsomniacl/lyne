@@ -1,6 +1,4 @@
-Put the **approved full architecture document** into `docs/system-design.md`.
-
-Use this exact structure:
+**approved full architecture document**
 
 ````md
 # Business and Labor Law Firm Website
